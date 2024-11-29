@@ -1,20 +1,17 @@
-# 💫 Que tal! Mucho gusto de verte por aquí:
-Bienvenidos a mi página!
-¿Quién soy?
-Soy Gabriel residente en Buenos Aires Argentina, analista de datos en constante crecimiento que siempre está en búsqueda de conocimientos y experiencias profesionales desafiantes.
+# 💫 Bienvenidos a mi página! Mucho gusto de verte por aquí:
+## Quién soy?
+Soy Gabriel, residente en Buenos Aires Argentina, **analista de datos** en constante crecimiento que siempre está en búsqueda de conocimientos y experiencias profesionales desafiantes.
 Desde el año 2020 me ha interesado el mundo IT y me inicié en desarrollo web. Mi primer Lenguaje fue Python. En 2022 conocí el grandioso universo de los datos y decidí introducirme de 
 lleno en el, considerando el crecimiento hacia el futuro a realizar modelos predictivos, mi background en programación me resulta un gran complemento y me motiva a seguir avanzando.
 
-¿Qué hago?
-Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como Data Analytics. Me fascina poder encontrar la solución a los problemas de la vida con código
+## ¿Qué hago?
+Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como **Data Analytics**. Me fascina poder encontrar la solución a los problemas de la vida con código
 y la creación de KPI's ricos en información para generar dashboards eficientes. 
 
-¿A dónde me dirijo?
+## ¿A dónde me dirijo?
 Mi objetivo principal es impactar el mundo de los datos 🎆
 
 No solo disfruto de la analítica por la cantidad de demanda que hay en el mercado. Sino que realmente me apasiona ampliar mi perspectiva de las cosas que existen en el mundo y encontrar nuevas soluciones a problemas que creíamos ya resueltos.
-
-¿Qué tecnologías uso?
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-salomon-b41747206/) 
