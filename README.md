@@ -1,6 +1,20 @@
-# 💫 About Me:
-Soy un Analista de Datos en crecimiento, residente en la ciudad de Buenos Aires. A mis 28 años, he dedicado mi carrera a explorar el fascinante mundo de los datos y su capacidad para contar historias y guiar decisiones. Me apasiona transformar datos en información valiosa y utilizar herramientas de análisis para descubrir patrones y tendencias que impulsen el éxito. Me encanta aprender y me esfuerzo por sobresalir en cada proyecto en el que participo. Mi viaje comenzó con estudios en programación, donde desarrollé una sólida base en habilidades técnicas que me han permitido abordar problemas complejos de manera efectiva. Estoy siempre ansioso por enfrentar nuevos desafíos y colaborar en iniciativas innovadoras que me permitan crecer profesionalmente y aportar valor. ¡Estoy emocionado por las oportunidades que el futuro depara y estoy listo para dejar mi huella en el mundo de la tecnología y los datos!
+# 💫 Que tal! Mucho gusto de verte por aquí:
+Bienvenidos a mi página!
+¿Quién soy?
+Soy Gabriel residente en Buenos Aires Argentina, analista de datos en constante crecimiento que siempre está en búsqueda de conocimientos y experiencias profesionales desafiantes.
+Desde el año 2020 me ha interesado el mundo IT y me inicié en desarrollo web. Mi primer Lenguaje fue Python. En 2022 conocí el grandioso universo de los datos y decidí introducirme de 
+lleno en el, considerando el crecimiento hacia el futuro a realizar modelos predictivos, mi background en programación me resulta un gran complemento y me motiva a seguir avanzando.
 
+¿Qué hago?
+Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como Data Analytics. Me fascina poder encontrar la solución a los problemas de la vida con código
+y la creación de KPI's ricos en información para generar dashboards eficientes. 
+
+¿A dónde me dirijo?
+Mi objetivo principal es impactar el mundo de los datos 🎆
+
+No solo disfruto de la analítica por la cantidad de demanda que hay en el mercado. Sino que realmente me apasiona ampliar mi perspectiva de las cosas que existen en el mundo y encontrar nuevas soluciones a problemas que creíamos ya resueltos.
+
+¿Qué tecnologías uso?
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-salomon-b41747206/) 
